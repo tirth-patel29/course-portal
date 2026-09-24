@@ -1,0 +1,65 @@
+{
+  "courses": [
+    {
+      "id": "mpt101",
+      "code": "MPT-101 · LEM",
+      "shortCode": "LEM",
+      "title": "Laws, Ethics & Administration and Educational Methodology",
+      "description": "The professional, ethical and educational foundations of physiotherapy practice.",
+      "accent": "coral",
+      "sections": [
+        {"title":"Ethics and Law","topics":[
+          {"code":"LEM 1.1","title":"Principles of Ethics","focus":true,"subtopics":["History and evolution of ethics","Helsinki Declaration","Nuremberg Code","Principles of ethics and importance (Autonomy, Beneficence, Non-maleficence, Justice)"],"pdf":""},
+          {"code":"LEM 1.2","title":"Professionalism","focus":false,"subtopics":[],"pdf":""},
+          {"code":"LEM 1.3","title":"Ethics in Professional Practice","focus":false,"subtopics":["Principles of practice","Privacy","Confidentiality","Shared decision making","Informed consent","Equality and equity","Justice"],"pdf":""},
+          {"code":"LEM 1.4","title":"ICMR Guidelines","focus":false,"subtopics":["General principles","Responsible conduct of research","Risk-benefit assessment"],"pdf":""},
+          {"code":"LEM 1.5","title":"Informed Consent Process","focus":false,"subtopics":["Components of informed consent document","Procedure in obtaining informed consent","Special situations, waivers and proxy consent"],"pdf":""},
+          {"code":"LEM 1.6","title":"Roles and Responsibilities of IEC","focus":false,"subtopics":["Ethical review process","Classification of projects for review","Roles and responsibilities of members","Communications with investigators and authorities"],"pdf":""},
+          {"code":"LEM 1.7","title":"Ethics in Special and Vulnerable Populations","focus":false,"subtopics":["Types of vulnerability","Challenges for research","Guidelines for research"],"pdf":""},
+          {"code":"LEM 1.8","title":"Conflict of Interest","focus":true,"subtopics":["Definition and types","Identifying, mitigating and managing","Conflicts of interest in international collaborations"],"pdf":""},
+          {"code":"LEM 1.9","title":"Publication Ethics","focus":true,"subtopics":["Importance of publishing","Authorship guidelines according to ICMJE","Plagiarism"],"pdf":""},
+          {"code":"LEM 1.10","title":"Laws Governing Physiotherapy Practice","focus":false,"subtopics":["NCAHP Act","Consumer Protection Act","Rights of Persons with Disabilities Act","Ethical issues in Clinical, Research and Academics"],"pdf":""}
+        ]},
+        {"title":"Management and Administration in Physiotherapy","topics":[
+          {"code":"LEM 2.1","title":"Principles and Applications of Management and Administration to Physiotherapy Practice","focus":true,"subtopics":[],"pdf":""},
+          {"code":"LEM 2.2","title":"Management Process","focus":true,"subtopics":["Planning","Organizing","Staffing","Finance","Marketing","Controlling","Directing"],"pdf":""},
+          {"code":"LEM 2.3","title":"Quality Assurance","focus":false,"subtopics":["Total Quality Management","Basis of quality management","Quality assurance program in hospitals","Medical audit","International quality system"],"pdf":""},
+          {"code":"LEM 2.4","title":"Communication","focus":false,"subtopics":["Process","Barriers","Types","Written vs oral","Elements of good communication"],"pdf":""},
+          {"code":"LEM 2.5","title":"Hospital as an Organization","focus":false,"subtopics":["Functions and types of hospitals","Management in hospital","Setting up a physiotherapy service unit"],"pdf":""}
+        ]},
+        {"title":"Management of Teaching Institution and Educational Methodology","topics":[
+          {"code":"LEM 3.1","title":"Education","focus":false,"subtopics":["Definition, aims and objectives","Agencies of education","Formal and informal education","Philosophies of education (brief)","Taxonomy of educational objectives","Essentials of physiotherapy education","NEP"],"pdf":""},
+          {"code":"LEM 3.2","title":"Basics of Adult Learning Theories","focus":false,"subtopics":["Learning styles","Motivation"],"pdf":""},
+          {"code":"LEM 3.3","title":"Concept of Teaching-Learning","focus":false,"subtopics":["Nature of learning","Types and stages","Factors affecting learning","Laws of learning","Teaching-learning process","Role of teacher","Adult learning"],"pdf":""},
+          {"code":"LEM 3.4","title":"Teaching Skills and Teaching Methods","focus":true,"subtopics":["Teaching skills","Classroom teaching methods","Clinical teaching methods","Lesson planning and unit planning","Teaching aids and educational technology"],"pdf":""},
+          {"code":"LEM 3.5","title":"Formulating Intended Learning Outcomes","focus":true,"subtopics":["Tyler's principles","Bloom's Taxonomy","Miller's Pyramid","Clinical competence","Dreyfus' Model of Skill Acquisition"],"pdf":""},
+          {"code":"LEM 3.6","title":"Entrepreneurship in Physiotherapy Practice","focus":false,"subtopics":["Need","Advantages","Opportunities"],"pdf":""}
+        ]}
+      ]
+    },
+    {
+      "id":"mpt104","code":"MPT-104 (MS)","shortCode":"MCPFD","title":"Musculoskeletal & Sports Physiotherapy (Clinical Evaluation & Diagnosis)","description":"Clinical evaluation, decision making and diagnostic tools for musculoskeletal and sports practice.","accent":"teal","sections":[
+        {"title":"Part I","topics":[
+          {"code":"MCPFD 1.1","title":"Clinical Decision Making","focus":true,"subtopics":["Planning effective treatment","Clinical decision making models","Team approach","Foundation for clinical decision making"],"pdf":""},
+          {"code":"MCPFD 1.2","title":"Vital Signs","focus":true,"subtopics":["Reasons for monitoring","Importance","Common techniques","Normal vs abnormal values"],"pdf":""},
+          {"code":"MCPFD 1.3","title":"Investigative and Imaging Techniques in Physiotherapy","focus":false,"subtopics":["Blood test","ABG analysis","PFT","Radiological examination","CT","MRI","Ultrasonography","ECG","Dope testing"],"pdf":""},
+          {"code":"MCPFD 1.4","title":"Evaluation, Assessment and Treatment Planning Strategies","focus":true,"subtopics":["for musculoskeletal, neurological, cardiopulmonary, sports specific and other conditions","Principles of evaluation","Clinical manifestations","General and specific clinical examination"],"pdf":""},
+          {"code":"MCPFD 1.4(i)","title":"Physiotherapy Assessment","focus":true,"subtopics":["ROM","Tone","Muscular strength and endurance","Flexibility","Coordination (non-equilibrium and equilibrium tests)","Sports specific skills","Cardiac efficiency","Sensory evaluation","Functional evaluation (scoring methods, validity, reliability)","Fitness evaluation (aerobic, anaerobic)","Spasm","Trigger point","Tender point"],"focusSubtopics":["ROM","Tone","Muscular strength and endurance","Flexibility","Coordination (non-equilibrium and equilibrium tests)","Sensory evaluation","Spasm","Trigger point","Tender point"],"note":"Spasm appears once here although the source list repeats it.","pdf":""},
+          {"code":"MCPFD 1.4(ii)","title":"Assessment of Cognitive, Perceptual and Vestibular Dysfunction","focus":true,"subtopics":[],"pdf":""},
+          {"code":"MCPFD 1.5","title":"Electro-Diagnosis","focus":true,"subtopics":["Electrotherapeutic stimulation systems and electrophysiological assessment devices","Instrumentation for neuromuscular electrical stimulation","Electrical properties of muscle and nerve","Neurobiology of afferent pain transmission and CNS pain modulation","Electrical stimulation and circulation"],"pdf":""},
+          {"code":"MCPFD 1.6","title":"Clinical Electrophysiological Testing","focus":false,"subtopics":["Nerve conduction velocity including RNS","Electromyography","Biofeedback technique","Late responses"],"pdf":""},
+          {"code":"MCPFD 1.7","title":"Electrophysiological Studies in Neuromuscular Diseases","focus":false,"subtopics":["diagnostic and therapeutic tool"],"pdf":""},
+          {"code":"MCPFD 1.8","title":"Evoked Potentials","focus":false,"subtopics":["VEP","SSEP","MEP","BAEP"],"pdf":""}
+        ]},
+        {"title":"Part II","topics":[
+          {"code":"MCPFD 2.1","title":"Psychological Aspects of Rehabilitation in Disability","focus":false,"subtopics":["Psychological tests"],"pdf":""},
+          {"code":"MCPFD 2.2","title":"Developmental Screening","focus":true,"subtopics":["Factors, motor control assessment","Motor control theories/mechanism","Patterns of normal development","Specific procedures and tests for motor control defects"],"pdf":""},
+          {"code":"MCPFD 2.3","title":"Anthropometry","focus":false,"subtopics":["Body measurements (height, weight, circumference)","Body proportion (BMI, WHR)","Body composition: somatotyping","Methods: water displacement, skinfold, underwater weighing, BIA"],"pdf":""},
+          {"code":"MCPFD 2.4","title":"Differential Diagnosis in Physiotherapy","focus":true,"subtopics":[],"pdf":""},
+          {"code":"MCPFD 2.5","title":"Functional Evaluation","focus":false,"subtopics":["Health status impairment and functional limitations","Disability and persons with disabilities","Functional activity, purposes and components of functional assessment","Selection of activity and roles","Physical function tests","Multi-dimensional functional assessment instruments","Scoring methods","Reliability and validity"],"pdf":""},
+          {"code":"MCPFD 2.6","title":"Evaluation of Aging","focus":true,"subtopics":[],"pdf":""}
+        ]}
+      ]
+    }
+  ]
+}

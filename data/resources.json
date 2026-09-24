@@ -1,0 +1,14 @@
+{
+  "mpt101": {
+    "label": "MPT-101 · LEM",
+    "books": [
+      {"title":"Beauchamp and Childress, Principles of Biomedical Ethics, 4th ed.","publisher":"Oxford"},
+      {"title":"Patricia A. Marshall, Ethical challenges in study design and informed consent for health research in resource poor settings","publisher":"WHO, 2007"},
+      {"title":"National Ethical Guidelines for Biomedical and Health Research involving Human Participants","publisher":"ICMR, 2017"},
+      {"title":"ABC of Learning and Teaching in Medicine","publisher":"eds. Cantillon, Wood, Yardley, 3rd ed."},
+      {"title":"Understanding Medical Education: Evidence, Theory, and Practice","publisher":"eds. Swanwick, Forrest, O'Brien, 3rd ed."},
+      {"title":"Principles of Medical Education","publisher":"eds. Tejinder Singh, Piyush Gupta, Daljit Singh, Jaypee, 2012"}
+    ]
+  },
+  "mpt104": {"label":"MPT-104 (MS)","books":[],"links":[]}
+}
