@@ -38,7 +38,7 @@
       ]
     },
     {
-      "id":"mpt104","code":"MPT-104 (MS)","shortCode":"MCPFD","title":"Musculoskeletal & Sports Physiotherapy (Clinical Evaluation & Diagnosis)","description":"Clinical evaluation, decision making and diagnostic tools for musculoskeletal and sports practice.","accent":"teal","sections":[
+      "id":"mpt104","code":"MPT (MS)-104","shortCode":"MS","title":"Physical & Functional Diagnosis in Musculoskeletal Science","description":"Physical and functional diagnosis in musculoskeletal science.","accent":"teal","sections":[
         {"title":"Part I","topics":[
           {"code":"MCPFD 1.1","title":"Clinical Decision Making","focus":true,"subtopics":["Planning effective treatment","Clinical decision making models","Team approach","Foundation for clinical decision making"],"pdf":""},
           {"code":"MCPFD 1.2","title":"Vital Signs","focus":true,"subtopics":["Reasons for monitoring","Importance","Common techniques","Normal vs abnormal values"],"pdf":""},

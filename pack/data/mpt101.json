@@ -1,0 +1,1079 @@
+{
+ "id": "mpt101",
+ "code_title": "MPT101 - Laws, Ethics, Administration, Educational Methodology (LEM)",
+ "programme": "MPT",
+ "year": "1st Year MPT",
+ "academicYear": "2026–27",
+ "credits": "6",
+ "ltp": "Not specified in source Excel (placeholder text was \"e.g. 3 – 0 – 0\")",
+ "theoryHours": "90 hours",
+ "practicalHours": "-",
+ "theorySessions": "3 hours/week; 30 teaching sessions",
+ "labSessions": "-",
+ "faculty": "Dr. Krishna / Dr. Dhruv/ Dr. Shreya",
+ "prerequisite": "NA",
+ "syllabusPdf": "assets/syllabus/MPT101_Syllabus.pdf",
+ "lastUpdated": "24-09-2026",
+ "cos": [
+  {
+   "id": "CO1",
+   "text": "Explain the principles of professional ethics, relevant laws, regulatory guidelines, and ethical responsibilities applicable to physiotherapy practice, research, education, and patient care.",
+   "bloom": "Understand"
+  },
+  {
+   "id": "CO2",
+   "text": "Apply ethical principles, informed consent procedures, research ethics guidelines, and professional legal provisions to clinical decision-making, physiotherapy diagnosis, individualized care planning, research, and academic case scenarios.",
+   "bloom": "Application"
+  },
+  {
+   "id": "CO3",
+   "text": "Analyze professional ethical challenges, communication processes, conflicts of interest, publication ethics, and considerations for vulnerable populations in physiotherapy assessment, diagnosis, intervention, practice, and research.",
+   "bloom": "Analyse"
+  },
+  {
+   "id": "CO4",
+   "text": "Evaluate management and administrative principles, quality assurance strategies, communication practices, and organizational processes for safe, effective, patient-centred physiotherapy service delivery and individualized care.",
+   "bloom": "Evaluate"
+  },
+  {
+   "id": "CO5",
+   "text": "Analyze educational philosophies, adult learning theories, learning processes, motivation, and teaching–learning methods relevant to physiotherapy education, clinical training, patient education, and community practice.",
+   "bloom": "Analyse"
+  },
+  {
+   "id": "CO6",
+   "text": "Design outcome-oriented teaching and learning activities by integrating educational principles, Bloom's Taxonomy, Miller's Pyramid, teaching methods, educational technology, and clinical competence frameworks to develop clinical reasoning, physiotherapy diagnosis, and individualized care-planning competencies.",
+   "bloom": "Create"
+  }
+ ],
+ "pos": [
+  {
+   "id": "PO1",
+   "title": "Communication",
+   "text": "Demonstrate effective communication and interpersonal skills, which are adapted to meet the needs of diverse individuals and groups"
+  },
+  {
+   "id": "PO2",
+   "title": "Diagnosis and plan of care",
+   "text": "Develop physiotherapy diagnoses and an individualized plan of care for the management and prevention of movement dysfunction"
+  },
+  {
+   "id": "PO3",
+   "title": "Evidence based practice",
+   "text": "Apply principles of critical thinking and clinical reasoning to evidence-based physiotherapy practice"
+  },
+  {
+   "id": "PO4",
+   "title": "Teaching and learning principles",
+   "text": "Apply learning and teaching principles in educational, clinical and community settings"
+  },
+  {
+   "id": "PO5",
+   "title": "Team Member",
+   "text": "Participate as an effective intra- and inter-professional team member"
+  },
+  {
+   "id": "PO6",
+   "title": "Ethical and legal standards",
+   "text": "Adhere to safe, ethical and legal standards of current practice (as identified by professional organizations, central and state law and accrediting bodies)"
+  },
+  {
+   "id": "PO7",
+   "title": "Professional Responsibility and commitment",
+   "text": "Develop responsibility and commitment to the profession and society through life-long learning and involvement in activities beyond job responsibilities"
+  }
+ ],
+ "copoMap": {
+  "scale": "3 = High, 2 = Medium, 1 = Low, blank = no correlation",
+  "rows": [
+   {
+    "co": "CO1",
+    "values": {
+     "PO1": 2,
+     "PO2": 1,
+     "PO3": 1,
+     "PO4": null,
+     "PO5": 1,
+     "PO6": 3,
+     "PO7": 3
+    }
+   },
+   {
+    "co": "CO2",
+    "values": {
+     "PO1": 2,
+     "PO2": 3,
+     "PO3": 2,
+     "PO4": null,
+     "PO5": 1,
+     "PO6": 3,
+     "PO7": 2
+    }
+   },
+   {
+    "co": "CO3",
+    "values": {
+     "PO1": 3,
+     "PO2": 2,
+     "PO3": 3,
+     "PO4": null,
+     "PO5": 2,
+     "PO6": 3,
+     "PO7": 3
+    }
+   },
+   {
+    "co": "CO4",
+    "values": {
+     "PO1": 3,
+     "PO2": 2,
+     "PO3": 2,
+     "PO4": null,
+     "PO5": 3,
+     "PO6": 2,
+     "PO7": 3
+    }
+   },
+   {
+    "co": "CO5",
+    "values": {
+     "PO1": 3,
+     "PO2": 1,
+     "PO3": 2,
+     "PO4": 3,
+     "PO5": 2,
+     "PO6": 1,
+     "PO7": 3
+    }
+   },
+   {
+    "co": "CO6",
+    "values": {
+     "PO1": 3,
+     "PO2": 3,
+     "PO3": 2,
+     "PO4": 3,
+     "PO5": 2,
+     "PO6": 1,
+     "PO7": 3
+    }
+   }
+  ]
+ },
+ "units": [
+  {
+   "unit": "I",
+   "title": "Ethics and Law in Physiotherapy",
+   "topics": "LEM 1.1–1.10: Principles and evolution of ethics; Helsinki Declaration; Nuremberg Code; autonomy, beneficence, non-maleficence and justice; professionalism; ethical principles in physiotherapy practice; privacy, confidentiality, shared decision-making and informed consent; ICMR guidelines; informed consent process; IEC roles and responsibilities; vulnerable populations; conflict of interest; publication ethics; ICMJE authorship and plagiarism; NCAHP Act, Consumer Protection Act, Rights of Persons with Disabilities Act; ethical issues in clinical practice, research and academics.",
+   "hours": 35,
+   "marks": 0.389,
+   "cos": "CO1, CO2, CO3"
+  },
+  {
+   "unit": "II",
+   "title": "Management and Administration in Physiotherapy",
+   "topics": "LEM 2.1–2.5: Principles and applications of management and administration; management process including planning, organizing, staffing, finance, marketing, controlling and directing; quality assurance and Total Quality Management; hospital quality assurance, medical audit and international quality systems; communication process, barriers and types of communication; written and oral communication; hospital as an organization; functions and types of hospitals; management and establishment of a physiotherapy service unit.",
+   "hours": 25,
+   "marks": 0.278,
+   "cos": "CO4"
+  },
+  {
+   "unit": "III",
+   "title": "Management of Teaching Institution and Educational Methodology in Physiotherapy",
+   "topics": "LEM 3.1–3.6: Aims and objectives of education; agencies and types of education; educational philosophies; taxonomy of educational objectives; physiotherapy education and NEP; adult learning theories, learning styles and motivation; teaching-learning process; factors and laws of learning; role of teacher; teaching skills and methods; classroom and clinical teaching; lesson and unit planning; teaching aids and educational technology; Intended Learning Outcomes; Tyler's principles; Bloom's Taxonomy; Miller's Pyramid; clinical competence; Dreyfus' Model; entrepreneurship in physiotherapy practice.",
+   "hours": 30,
+   "marks": 0.333,
+   "cos": "CO5, CO6"
+  }
+ ],
+ "lessonPlan": [
+  {
+   "session": 1,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.1. Principles of Ethics: History and evolution of ethics; Helsinki Declaration; Nuremberg Code",
+   "faculty": "Shreya Swami",
+   "slo": "Explain the historical development of research ethics and the significance of the Nuremberg Code and Helsinki Declaration in physiotherapy research and practice.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO1",
+   "method": "Interactive lecture + discussion",
+   "resource": "Helsinki Declaration; Nuremberg Code; LMS material",
+   "assessment": "Timeline and ethics discussion",
+   "plannedDate": "August 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 2,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.1. Principles of Ethics: Autonomy, beneficence, non-maleficence and justice",
+   "faculty": "Shreya Swami",
+   "slo": "Explain the four fundamental principles of ethics and relate them to physiotherapy practice and patient care.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO1",
+   "method": "Interactive lecture + clinical examples",
+   "resource": "Ethics case scenarios; lecture slides",
+   "assessment": "Ethical-principle case classification",
+   "plannedDate": "August 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 3,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.2. Professionalism",
+   "faculty": "Dhruv Dave",
+   "slo": "Explain the characteristics of professionalism and professional responsibilities in physiotherapy practice, education and research.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO1, CO3",
+   "method": "Interactive lecture + discussion",
+   "resource": "Professional codes; case examples",
+   "assessment": "Professionalism case discussion",
+   "plannedDate": "August 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 4,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.3. Ethics in Professional Practice: Principles of practice; privacy; confidentiality; shared decision-making",
+   "faculty": "Krishna Vyas",
+   "slo": "Apply ethical principles of privacy, confidentiality and shared decision-making to physiotherapy clinical scenarios.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO2, CO3",
+   "method": "Case-based learning + discussion",
+   "resource": "Clinical case scenarios; ethical guidelines",
+   "assessment": "Case-based ethical decision-making",
+   "plannedDate": "August 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 5,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.3. Ethics in Professional Practice: Informed consent; equality, equity and justice",
+   "faculty": "Krishna Vyas",
+   "slo": "Apply informed consent, equality, equity and justice principles to individualized physiotherapy care and professional practice.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO2, CO3",
+   "method": "Case-based learning + role play",
+   "resource": "Consent examples; clinical scenarios",
+   "assessment": "Informed-consent role play",
+   "plannedDate": "August 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 6,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.4. ICMR Guidelines: General principles and responsible conduct of research",
+   "faculty": "Dhruv Dave",
+   "slo": "Explain ICMR ethical principles and identify requirements for responsible conduct of physiotherapy research.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO1",
+   "method": "Interactive lecture + guideline discussion",
+   "resource": "ICMR ethical guidelines; LMS",
+   "assessment": "Guideline-based case discussion",
+   "plannedDate": "September 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 7,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.4. ICMR Guidelines: Risk-benefit assessment",
+   "faculty": "Dhruv Dave",
+   "slo": "Analyze risks and potential benefits of research participation and determine appropriate ethical safeguards.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO2, CO3",
+   "method": "Case-based discussion",
+   "resource": "ICMR guidelines; research scenarios",
+   "assessment": "Risk-benefit analysis activity",
+   "plannedDate": "September 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 8,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.5. Informed Consent Process: Components of informed consent document",
+   "faculty": "Krishna Vyas",
+   "slo": "Identify the essential components of an informed consent document for clinical and research settings.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO1, CO2",
+   "method": "Interactive lecture + document analysis",
+   "resource": "Sample consent forms; ICMR guidelines",
+   "assessment": "Consent-document checklist",
+   "plannedDate": "September 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 9,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.5. Informed Consent Process: Procedure for obtaining informed consent; special situations",
+   "faculty": "Krishna Vyas",
+   "slo": "Apply appropriate procedures for obtaining informed consent in routine and special clinical/research situations.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO2, CO3",
+   "method": "Demonstration + role play",
+   "resource": "Consent forms; clinical scenarios",
+   "assessment": "Informed-consent simulation",
+   "plannedDate": "September 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 10,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.6. Roles and Responsibilities of IEC: Ethical review process and classification of projects",
+   "faculty": "Dhruv Dave",
+   "slo": "Explain the ethical review process and classify research projects according to the level of ethical review required.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO1, CO2",
+   "method": "Interactive lecture + case classification",
+   "resource": "IEC guidelines; sample protocols",
+   "assessment": "Project classification activity",
+   "plannedDate": "September 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 11,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.6. Roles and Responsibilities of IEC: Roles of IEC members; communication with investigators and authorities",
+   "faculty": "Dhruv Dave",
+   "slo": "Analyze the responsibilities of IEC members and communication requirements during ethical review.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO3",
+   "method": "Discussion + simulated IEC activity",
+   "resource": "IEC SOPs; sample protocols",
+   "assessment": "Mock IEC review",
+   "plannedDate": "September 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 12,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.7. Ethics in Special and Vulnerable Populations: Types of vulnerability and vulnerable populations",
+   "faculty": "Dhruv Dave",
+   "slo": "Identify different forms of vulnerability and recognize vulnerable populations relevant to physiotherapy research and practice.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO1, CO3",
+   "method": "Interactive lecture + case discussion",
+   "resource": "ICMR guidelines; case scenarios",
+   "assessment": "Vulnerability identification exercise",
+   "plannedDate": "October 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 13,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.7. Ethics in Special and Vulnerable Populations: Challenges and guidelines",
+   "faculty": "Dhruv Dave",
+   "slo": "Analyze ethical challenges and apply appropriate safeguards when conducting research involving vulnerable populations.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO2, CO3",
+   "method": "Case-based learning + group discussion",
+   "resource": "Vulnerable-population guidelines; research cases",
+   "assessment": "Ethical safeguard planning",
+   "plannedDate": "October 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 14,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.8. Conflict of Interest: Definition, types, identification and management",
+   "faculty": "Shreya Swami",
+   "slo": "Identify different types of conflict of interest and analyze appropriate strategies for disclosure, mitigation and management.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO3",
+   "method": "Case-based learning + discussion",
+   "resource": "COI examples; publication guidelines",
+   "assessment": "COI identification exercise",
+   "plannedDate": "October 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 15,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.8. Conflict of Interest: International collaborations",
+   "faculty": "Shreya Swami",
+   "slo": "Analyze ethical considerations related to conflicts of interest in collaborative and international research.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO3",
+   "method": "Case discussion + problem solving",
+   "resource": "Research collaboration scenarios",
+   "assessment": "COI management plan",
+   "plannedDate": "October 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 16,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.9. Publication Ethics: Importance of publishing; authorship according to ICMJE",
+   "faculty": "Shreya Swami",
+   "slo": "Explain responsible publication practices and apply ICMJE principles to determine appropriate authorship and contribution.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO1, CO3",
+   "method": "Interactive lecture + case discussion",
+   "resource": "ICMJE guidelines; authorship cases",
+   "assessment": "Authorship allocation exercise",
+   "plannedDate": "October 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 17,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.9. Publication Ethics: Plagiarism and responsible publication",
+   "faculty": "Shreya Swami",
+   "slo": "Analyze common forms of plagiarism and unethical publication practices and identify strategies for responsible scientific writing.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO3",
+   "method": "Demonstration + case analysis",
+   "resource": "Plagiarism examples; similarity-check resources",
+   "assessment": "Plagiarism identification activity",
+   "plannedDate": "October 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 18,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.10. Laws Governing Physiotherapy Practice: NCAHP Act",
+   "faculty": "Dhruv Dave",
+   "slo": "Explain major provisions of the NCAHP Act relevant to professional practice, registration and responsibilities of physiotherapists.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO1",
+   "method": "Interactive lecture + legal case discussion",
+   "resource": "NCAHP Act; regulatory documents",
+   "assessment": "Legal-provision case analysis",
+   "plannedDate": "November 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 19,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.10. Laws Governing Physiotherapy Practice: Consumer Protection Act",
+   "faculty": "Dhruv Dave",
+   "slo": "Apply relevant provisions of consumer protection law to physiotherapy service delivery and professional accountability.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO2, CO3",
+   "method": "Case-based learning",
+   "resource": "Consumer Protection Act; case examples",
+   "assessment": "Clinical-legal case analysis",
+   "plannedDate": "November 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 20,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.10. Laws Governing Physiotherapy Practice: Rights of Persons with Disabilities Act",
+   "faculty": "Dhruv Dave",
+   "slo": "Analyze the rights, accessibility and equality considerations relevant to physiotherapy services for persons with disabilities.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO2, CO3",
+   "method": "Interactive lecture + case discussion",
+   "resource": "RPwD Act; disability-related scenarios",
+   "assessment": "Rights-based case discussion",
+   "plannedDate": "November 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 21,
+   "week": null,
+   "unit": "Ethics and Law",
+   "topic": "LEM 1.10. Ethical Issues in Physiotherapy: Clinical, research and academic ethics",
+   "faculty": "Dhruv Dave",
+   "slo": "Analyze ethical and legal challenges across clinical practice, research and academic settings and propose appropriate professional responses.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO2, CO3",
+   "method": "Case conference + group problem solving",
+   "resource": "Integrated case scenarios; ethical guidelines",
+   "assessment": "Integrated ethical case presentation",
+   "plannedDate": "November 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 22,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.1. Principles and Applications of Management and Administration to Physiotherapy Practice",
+   "faculty": "Dr. Shreya Swami",
+   "slo": "Explain fundamental management and administration principles and relate them to physiotherapy service delivery.",
+   "hours": 4,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Interactive lecture + case discussion",
+   "resource": "Management notes; hospital case studies",
+   "assessment": "Management-principle application activity",
+   "plannedDate": "November 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 23,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.2. Management Process: Planning, organizing and staffing",
+   "faculty": "Shreya Swami",
+   "slo": "Apply planning, organizing and staffing principles to the establishment and functioning of a physiotherapy service unit.",
+   "hours": 2.5,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Problem-based learning + group activity",
+   "resource": "Management templates; hospital scenarios",
+   "assessment": "Physiotherapy-unit planning activity",
+   "plannedDate": "November 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 24,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.2. Management Process: Finance, marketing, controlling and directing",
+   "faculty": "Dr. Shreya Swami",
+   "slo": "Analyze basic financial, marketing, controlling and directing functions relevant to physiotherapy administration.",
+   "hours": 2.5,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Interactive lecture + case study",
+   "resource": "Administrative examples; financial planning templates",
+   "assessment": "Administrative case analysis",
+   "plannedDate": "November 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 25,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.3. Quality Assurance: Total Quality Management and basis of quality management",
+   "faculty": "Dhruv Dave",
+   "slo": "Explain principles of quality assurance and Total Quality Management relevant to physiotherapy services.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Interactive lecture + discussion",
+   "resource": "TQM resources; quality standards",
+   "assessment": "Quality-indicator identification",
+   "plannedDate": "December 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 26,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.3. Quality Assurance: Hospital quality assurance, medical audit and international quality systems",
+   "faculty": "Dhruv Dave",
+   "slo": "Evaluate quality assurance processes, medical audit and quality systems used in healthcare organizations.",
+   "hours": 4,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Case-based learning + audit activity",
+   "resource": "Hospital QA documents; audit formats",
+   "assessment": "Mock physiotherapy audit",
+   "plannedDate": "December 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 27,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.4. Communication: Process, barriers and types of communication",
+   "faculty": "Dr. Krishna Vyas",
+   "slo": "Analyze the communication process, barriers and types of communication relevant to physiotherapy practice and administration.",
+   "hours": 2.5,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Interactive lecture + role play",
+   "resource": "Communication scenarios; videos",
+   "assessment": "Communication-barrier activity",
+   "plannedDate": "December 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 28,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.4. Communication: Written vs. oral communication; elements of good communication",
+   "faculty": "Dr. Krishna Vyas",
+   "slo": "Demonstrate effective written and oral communication appropriate for patients, colleagues and healthcare organizations.",
+   "hours": 2.5,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Role play + simulation",
+   "resource": "Sample professional communication; case scenarios",
+   "assessment": "Professional communication task",
+   "plannedDate": "December 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 29,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.5. Hospital as an Organization: Functions and types of hospitals",
+   "faculty": "Dr. Krishna Vyas",
+   "slo": "Explain the organizational structure, functions and types of hospitals and their relevance to physiotherapy services.",
+   "hours": 2.5,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Interactive lecture + organizational mapping",
+   "resource": "Hospital organizational charts; case studies",
+   "assessment": "Hospital-structure mapping",
+   "plannedDate": "December 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 30,
+   "week": null,
+   "unit": "Management & Administration",
+   "topic": "LEM 2.5. Management in Hospital Setting: Setting up a physiotherapy service unit",
+   "faculty": "Dr. Krishna Vyas",
+   "slo": "Design a basic organizational and operational plan for establishing a physiotherapy service unit within a hospital.",
+   "hours": 2.5,
+   "type": "Theory",
+   "co": "CO4",
+   "method": "Group project + problem solving",
+   "resource": "Hospital planning templates; sample SOPs",
+   "assessment": "Physiotherapy-unit design activity",
+   "plannedDate": "December 2026",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 31,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.1. Education: Definition, aims and objectives; agencies of education; formal and informal education",
+   "faculty": "Dhruv Dave",
+   "slo": "Explain the meaning, aims, objectives and major forms and agencies of education relevant to physiotherapy.",
+   "hours": 1.5,
+   "type": "Theory",
+   "co": "CO5",
+   "method": "Interactive lecture + discussion",
+   "resource": "Education notes; LMS",
+   "assessment": "Concept mapping",
+   "plannedDate": "January 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 32,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.1. Education: Philosophies of education; taxonomy of educational objectives; essentials of physiotherapy education; NEP",
+   "faculty": "Dhruv Dave",
+   "slo": "Analyze major educational philosophies and relate educational objectives and NEP principles to physiotherapy education.",
+   "hours": 3.5,
+   "type": "Theory",
+   "co": "CO5",
+   "method": "Interactive lecture + group discussion",
+   "resource": "NEP; educational philosophy resources",
+   "assessment": "Philosophy-to-practice activity",
+   "plannedDate": "January 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 33,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.2. Basics of Adult Learning Theories: Learning styles and motivation",
+   "faculty": "Dr. Krishna Vyas",
+   "slo": "Analyze adult learning theories, learning styles and motivational factors relevant to postgraduate physiotherapy education.",
+   "hours": 4,
+   "type": "Theory",
+   "co": "CO5",
+   "method": "Interactive lecture + experiential activity",
+   "resource": "Adult-learning resources; learning-style tools",
+   "assessment": "Learning-style and motivation activity",
+   "plannedDate": "January 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 34,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.3. Concept of Teaching-Learning: Nature, types and stages of learning; factors affecting learning",
+   "faculty": "Dr. Krishna Vyas",
+   "slo": "Analyze the teaching-learning process, stages of learning and factors influencing learning in physiotherapy students and clinical learners.",
+   "hours": 2.5,
+   "type": "Theory",
+   "co": "CO5",
+   "method": "Interactive lecture + discussion",
+   "resource": "Learning theory resources; case scenarios",
+   "assessment": "Learning-factor analysis",
+   "plannedDate": "January 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 35,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.3. Concept of Teaching-Learning: Laws of learning, learning styles, teaching-learning process and role of teacher",
+   "faculty": "Dr. Krishna Vyas",
+   "slo": "Analyze principles and laws of learning and relate the teacher's role to effective physiotherapy education and clinical training.",
+   "hours": 2.5,
+   "type": "Theory",
+   "co": "CO5",
+   "method": "Case-based learning + discussion",
+   "resource": "Teaching-learning resources; clinical teaching cases",
+   "assessment": "Teacher-role case activity",
+   "plannedDate": "January 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 36,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.4. Teaching Skills and Methods: Teaching skills and classroom teaching methods",
+   "faculty": "Dr. Shreya Swami",
+   "slo": "Demonstrate selection of appropriate classroom teaching methods according to learner needs and intended outcomes.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO6",
+   "method": "Demonstration + microteaching",
+   "resource": "Teaching-method resources; videos",
+   "assessment": "Microteaching activity",
+   "plannedDate": "February 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 37,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.4. Teaching Skills and Methods: Clinical teaching methods",
+   "faculty": "Dr. Shreya Swami",
+   "slo": "Select and apply appropriate clinical teaching methods for developing physiotherapy clinical competence.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO6",
+   "method": "Demonstration + simulation",
+   "resource": "Clinical teaching frameworks; case scenarios",
+   "assessment": "Clinical-teaching simulation",
+   "plannedDate": "February 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 38,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.4. Planning of Teaching: Lesson planning, unit planning, teaching aids and educational technology",
+   "faculty": "Dr. Shreya Swami",
+   "slo": "Design a structured lesson plan using appropriate teaching aids and educational technology for physiotherapy education.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO6",
+   "method": "Workshop + guided practice",
+   "resource": "Lesson-plan templates; educational technology",
+   "assessment": "Lesson-plan preparation",
+   "plannedDate": "February 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 39,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.5. Formulating Intended Learning Outcomes: Tyler's principles and Bloom's Taxonomy",
+   "faculty": "Dr. Shreya Swami",
+   "slo": "Formulate measurable intended learning outcomes using Tyler's principles and appropriate levels of Bloom's Taxonomy.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO6",
+   "method": "Workshop + outcome-writing activity",
+   "resource": "Bloom's Taxonomy; sample COs/ILOs",
+   "assessment": "ILO formulation exercise",
+   "plannedDate": "February 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 40,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.5. Miller's Pyramid and Clinical Competence",
+   "faculty": "Dr. Shreya Swami",
+   "slo": "Apply Miller's Pyramid to design assessment and learning activities for developing clinical competence in physiotherapy.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO6",
+   "method": "Case-based learning + workshop",
+   "resource": "Miller's Pyramid; OSCE/clinical assessment examples",
+   "assessment": "Assessment-design activity",
+   "plannedDate": "February 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 41,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.5. Dreyfus' Model of Skill Acquisition",
+   "faculty": "Dr. Shreya Swami",
+   "slo": "Analyze stages of skill acquisition and design learning activities appropriate to different levels of clinical competence.",
+   "hours": 2,
+   "type": "Theory",
+   "co": "CO6",
+   "method": "Interactive lecture + case activity",
+   "resource": "Dreyfus model; clinical competence cases",
+   "assessment": "Competency-level mapping",
+   "plannedDate": "February 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  },
+  {
+   "session": 42,
+   "week": null,
+   "unit": "Educational Methodology",
+   "topic": "LEM 3.6. Entrepreneurship in Physiotherapy Practice: Need, advantages and opportunities",
+   "faculty": "Dhruv Dave",
+   "slo": "Analyze entrepreneurial opportunities and professional pathways in physiotherapy practice and healthcare services.",
+   "hours": 4,
+   "type": "Theory",
+   "co": "CO5, CO6",
+   "method": "Interactive lecture + group activity",
+   "resource": "Entrepreneurship resources; physiotherapy business cases",
+   "assessment": "Entrepreneurial opportunity mapping",
+   "plannedDate": "February 2027",
+   "actualDate": "",
+   "remarks": "Planned"
+  }
+ ],
+ "evaluation": [
+  {
+   "component": "Internal Test 1",
+   "description": "Written examination on Unit I (Ethics and Law) content taught up to the scheduled test, including principles/history of ethics, Helsinki Declaration, Nuremberg Code, professionalism, ethical practice, informed consent, IEC, vulnerable populations, and/or publication ethics as covered before the test.",
+   "weightage": 5,
+   "cos": "CO1, CO2, CO3",
+   "schedule": "Week 8 Sep 2026"
+  },
+  {
+   "component": "Internal Test 2",
+   "description": "Written examination on the Management & Administration and Educational Methodology content taught up to the scheduled test, including management principles/processes, quality/communication/hospital organization as applicable, education and adult learning, teaching-learning process, teaching methods and related educational methodology topics as covered before the test.",
+   "weightage": 5,
+   "cos": "CO4, CO5, CO6",
+   "schedule": "Week 18"
+  },
+  {
+   "component": "Assignments",
+   "description": "Course-wide application assignments: (1) ethical/COI/publication-ethics case analysis, (2) physiotherapy service-unit management/administration task, and (3) lesson plan/ILO/assessment-design task. Individual or group submission as decided by the course team.",
+   "weightage": 5,
+   "cos": "CO1, CO2, CO3, CO4, CO5, CO6",
+   "schedule": "Scheduled across the semester"
+  },
+  {
+   "component": "Quizzes / Class activity",
+   "description": "Short quizzes and structured classroom activities across all units: ethics case classification, informed-consent/COI scenarios, management problem solving, communication/organizational activities, teaching-method activities, microteaching, Bloom/ILO exercises, Miller's Pyramid and Dreyfus competency mapping.",
+   "weightage": 5,
+   "cos": "CO1, CO2, CO3, CO4, CO5, CO6",
+   "schedule": "Throughout the semester"
+  },
+  {
+   "component": "Laboratory / Practical",
+   "description": "No separate laboratory/practical examination is scheduled because the course structure is theory-based (3–0–0). Practical/application activities such as microteaching, simulation, lesson planning and assessment design are conducted within theory sessions and continuous classroom activities.",
+   "weightage": 0,
+   "cos": "CO2, CO3, CO4, CO6",
+   "schedule": "Within theory sessions"
+  },
+  {
+   "component": "End-Semester Exam (SEE)",
+   "description": "Comprehensive written examination covering the complete prescribed MPT101 syllabus: Ethics & Law (LEM 1.1–1.10), Management & Administration (LEM 2.1–2.5), and Educational Methodology (LEM 3.1–3.6), with questions mapped to the relevant COs and appropriate Bloom's cognitive levels.",
+   "weightage": 80,
+   "cos": "CO1, CO2, CO3, CO4, CO5, CO6",
+   "schedule": "End of semester"
+  },
+  {
+   "component": "Total",
+   "description": "",
+   "weightage": 100,
+   "cos": "",
+   "schedule": ""
+  }
+ ],
+ "resources": {
+  "textbooks": [
+   {
+    "ref": "T1",
+    "title": "Principles of Biomedical Ethics",
+    "authors": "Beauchamp and Childress",
+    "publisher": "Fourth Edition; Oxford"
+   },
+   {
+    "ref": "T2",
+    "title": "Ethical Challenges in Study Design and Informed Consent for Health Research in Resource Poor Settings",
+    "authors": "Patricia A. Marshall",
+    "publisher": "World Health Organization, 2007"
+   },
+   {
+    "ref": "T3",
+    "title": "ABC of Learning and Teaching in Medicine",
+    "authors": "Peter Cantillon; Diana Wood; Sarah Yardley",
+    "publisher": "3rd Edition"
+   }
+  ],
+  "references": [
+   {
+    "ref": "R1",
+    "title": "National Ethical Guidelines for Biomedical and Health Research Involving Human Participants",
+    "authors": "Indian Council of Medical Research (ICMR)",
+    "publisher": "2017"
+   },
+   {
+    "ref": "R2",
+    "title": "Declaration of Helsinki – Ethical Principles for Medical Research Involving Human Subjects",
+    "authors": "World Medical Association",
+    "publisher": "Authoritative research-ethics resource"
+   },
+   {
+    "ref": "R3",
+    "title": "Nuremberg Code",
+    "authors": "Historical research-ethics code",
+    "publisher": "Research ethics / history"
+   },
+   {
+    "ref": "R4",
+    "title": "ICMJE Recommendations – Defining the Role of Authors and Contributors",
+    "authors": "International Committee of Medical Journal Editors",
+    "publisher": "Authorship and publication ethics"
+   }
+  ],
+  "eresources": [
+   {
+    "ref": "E1",
+    "title": "Indian Council of Medical Research (ICMR)",
+    "link": "ICMR ethical guidelines / official resources",
+    "notes": "Research ethics, responsible conduct and risk-benefit assessment"
+   },
+   {
+    "ref": "E2",
+    "title": "World Medical Association",
+    "link": "Declaration of Helsinki",
+    "notes": "International research ethics principles"
+   },
+   {
+    "ref": "E3",
+    "title": "International Committee of Medical Journal Editors (ICMJE)",
+    "link": "ICMJE Recommendations",
+    "notes": "Authorship and publication ethics"
+   }
+  ],
+  "tools": [
+   {
+    "item": "Tool 1",
+    "purpose": "Presentation / interactive teaching resources",
+    "access": "Institutional classroom facilities",
+    "notes": "Interactive lectures and guided discussion"
+   },
+   {
+    "item": "Tool 2",
+    "purpose": "Microteaching / simulation setup",
+    "access": "Classroom / clinical teaching setting",
+    "notes": "Teaching skills, clinical teaching and competency activities"
+   },
+   {
+    "item": "Tool 3",
+    "purpose": "LMS / digital learning resources",
+    "access": "Microsoft Teams",
+    "notes": "Slides, readings, cases, quizzes and supplementary resources"
+   }
+  ],
+  "extra": [
+   {
+    "ref": "1",
+    "topic": "Contemporary publication ethics: authorship, plagiarism and responsible publication",
+    "rationale": "Extends LEM 1.9 from definitions to authentic academic publishing decisions.",
+    "delivery": "Unit I"
+   },
+   {
+    "ref": "2",
+    "topic": "Ethical decision-making through physiotherapy case scenarios",
+    "rationale": "Applies autonomy, beneficence, non-maleficence, justice and COI principles to practice/research scenarios.",
+    "delivery": "Unit I"
+   },
+   {
+    "ref": "3",
+    "topic": "Physiotherapy service-unit management application",
+    "rationale": "Applies planning, organizing, staffing, finance, marketing, controlling and directing to physiotherapy administration.",
+    "delivery": "Unit II"
+   },
+   {
+    "ref": "4",
+    "topic": "Microteaching and clinical-teaching simulation",
+    "rationale": "Applies teaching methods and teaching skills to physiotherapy education and clinical training.",
+    "delivery": "Unit III"
+   },
+   {
+    "ref": "5",
+    "topic": "Outcome-based lesson and assessment design",
+    "rationale": "Integrates Bloom's Taxonomy, Miller's Pyramid and Dreyfus' model with lesson and assessment design.",
+    "delivery": "Unit III"
+   }
+  ]
+ },
+ "shortName": "LEM",
+ "code": "MPT-101",
+ "title": "Laws, Ethics, Administration and Educational Methodology"
+}

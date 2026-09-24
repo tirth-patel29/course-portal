@@ -6,19 +6,17 @@ A static, mobile-first course portal for Master of Physiotherapy students. It us
 
 Open `index.html` in a browser, or serve the folder with any static server. No build step or dependency install is required.
 
-## Add PDF links
+## Course data
 
-All course content lives in `data/courses.json`. Find a topic object and replace its empty `pdf` value:
+The portal loads each course from its own JSON file in `pack/data`. The two entries in `js/app.js` are the only course registry; adding a third course requires a new JSON file and one registry entry. Course syllabus links use the matching files in `pack/assets/syllabus`.
+
+Topic PDF links can be added by setting a topic's `pdf` value in the course JSON:
 
 ```json
 "pdf": "assets/lem-1-1-principles-of-ethics.pdf"
 ```
 
 Relative links and full URLs are both supported. The topic button automatically changes from `PDF coming soon` to `Notes PDF`.
-
-## Add a third course
-
-Add another object to the `courses` array in `data/courses.json`. Give it a unique `id`, `code`, `shortCode`, `title`, `description`, `accent`, and a `sections` array. Each section needs a `title` and `topics`; each topic needs `code`, `title`, `subtopics`, `focus`, and `pdf`. Add a matching resource entry in `data/resources.json` if needed. No JavaScript changes are required.
 
 ## Deploy on GitHub Pages
 
